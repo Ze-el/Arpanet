@@ -6,4 +6,12 @@ user interface.
 
 ## Features
 - Authentication and Authorization: Secure user login and access management features implemented to protect user data and functionalities
-- Search Engine: 
+- Search Engine: A robust search process that filters and retrieves relevant information stored in the MySQL database using a Python-SQL connector
+- Tkinter-based User Interface: An intuitive interface built with Tkinter for user authentication and search result display, ensuring a user-friendly experience
+- Seamless Frontend-backend integration: Integrated backend functionalities with frontend elements like buttons and hyperlinks to allow seamless navigation and interaction
+
+## Technologies Used
+- Python
+- MySQL database
+- Tkinter
+- Python-SQL connector
